@@ -1,0 +1,46 @@
+# Node.js
+node_modules/
+
+# Next.js
+.next/
+out/
+.next.js/
+build-manifest.json
+react-loadable-manifest.json
+/.next/
+/.vercel/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Log files
+*.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Yarn
+yarn-error.log
+yarn.lock
+.pnp.*
+.pnp.js
+
+# Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools/
+
+# Build files
+build/
+dist/
+
+# Local environment
+.env.local
